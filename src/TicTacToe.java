@@ -1,5 +1,5 @@
 // TicTacToe.java
-// Group Project Participants :  Kevin Perez, Kelly Frear
+// Group Project Participants :  Kevin Perez, Kelly Frear, Benjamine Medina, 
 public class TicTacToe {
 
     private char[][] board; // 3x3 game board
