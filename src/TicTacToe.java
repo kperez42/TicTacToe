@@ -9,7 +9,7 @@ public class TicTacToe {
     // Enumeration for game status
     public enum GameStatus {
         WIN, DRAW, CONTINUE
-    }
+    } 
 
     // Constructor to initialize the board
     public TicTacToe() {
